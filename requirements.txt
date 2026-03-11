@@ -1,0 +1,3 @@
+shekel
+langgraph
+openai
